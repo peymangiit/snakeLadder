@@ -89,7 +89,7 @@ section{
     /* padding: 10px; */
     /* padding-top: 14px; */
     z-index: 2;
-    outline: 3px solid rgb(255, 0, 0);
+    /* outline: 3px solid rgb(255, 0, 0); */
 }
 @media  screen and (max-width:880px) {
    .placecard{ top: 0;
@@ -112,7 +112,7 @@ section{
 }
 .box{
     background-color: transparent;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     position: relative;
 }
 /* ................end of map section */
